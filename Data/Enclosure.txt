@@ -1,0 +1,8 @@
+1, Large outdoor enclosure, Can hold 3 large mammals or up to 8 medium sized mammals such as zebras,4
+2, Medium outdoor enclosure, Can hold 2 large mammals or up to 6 medium sized mammals such as horses,3
+3, Medium outdoor/indoor cages, Cages designed to hold up to 6 monkeys,2
+4, Small indoor/outdoor cages, Cages designed to hold 2 monkeys or 20 rabbits/guinea pigs,2
+5, Very large outdoor cage with water, - Suitable for 3 crocodiles,1
+6, Medium indoor cages, Suitable for 2 large snakes or 4 small to medium snakes or 2 medium lizards,3
+7, Small indoor cages, Suitable for 2 small snakes or 4 small lizards,2
+8, Large outdoor/indoor aviary, Suitable for up 8 birds,2

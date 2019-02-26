@@ -1,0 +1,107 @@
+marmoset monkey,mam1,mammal,3,11
+marmoset monkey,mam2,mammal,3,11
+marmoset monkey,mam3,mammal,3,11
+marmoset monkey,mam4,mammal,3,11
+zebra,ze1,mammal,3,11
+zebra,ze2,mammal,3,11
+zebra,ze3,mammal,3,11
+zebra,ze4,mammal,3,11
+marmoset monkey,mam5,mammal,3,12
+marmoset monkey,mam6,mammal,3,12
+marmoset monkey,mam7,mammal,3,12
+marmoset monkey,mam8,mammal,3,12
+zebra,ze5,mammal,3,12
+zebra,ze6,mammal,3,12
+zebra,ze7,mammal,3,12
+zebra,ze8,mammal,3,12
+horse,ho1,mammal,2,13
+horse,ho2,mammal,2,13
+horse,ho3,mammal,2,13
+horse,ho4,mammal,2,13
+horse,ho5,mammal,2,13
+horse,ho6,mammal,2,13
+donkey,do9,mammal,2,13
+donkey,do10,mammal,2,13
+donkey,do1,mammal,2,14
+donkey,do2,mammal,2,14
+donkey,do3,mammal,2,14
+donkey,do4,mammal,2,14
+donkey,do5,mammal,2,14
+donkey,do6,mammal,2,14
+donkey,do7,mammal,2,14
+donkey,do8,mammal,2,14
+tiger,ti1,mammal,5,21
+tiger,ti2,mammal,5,21
+tiger,ti3,mammal,5,22
+tiger,ti4,mammal,5,22
+tiger,ti5,mammal,5,23
+tiger,ti6,mammal,5,23
+ape,ap4,mammal,4,31
+ape,ap5,mammal,4,31
+ape,ap6,mammal,4,31
+rabbit,ra1,mammal,1,41
+rabbit,ra2,mammal,1,41
+rabbit,ra3,mammal,1,41
+rabbit,ra4,mammal,1,41
+rabbit,ra5,mammal,1,41
+rabbit,ra6,mammal,1,41
+rabbit,ra7,mammal,1,41
+rabbit,ra8,mammal,1,41
+rabbit,ra9,mammal,1,41
+rabbit,ra10,mammal,1,41
+rabbit,ra11,mammal,1,41
+rabbit,ra12,mammal,1,41
+rabbit,ra13,mammal,1,41
+rabbit,ra14,mammal,1,41
+rabbit,ra15,mammal,1,41
+rabbit,ra16,mammal,1,41
+rabbit,ra17,mammal,1,41
+rabbit,ra18,mammal,1,41
+rabbit,ra19,mammal,1,41
+rabbit,ra20,mammal,1,41
+guinea pig,gup1,mammal,1,42
+guinea pig,gup2,mammal,1,42
+guinea pig,gup3,mammal,1,42
+guinea pig,gup4,mammal,1,42
+guinea pig,gup5,mammal,1,42
+guinea pig,gup6,mammal,1,42
+guinea pig,gup7,mammal,1,42
+guinea pig,gup8,mammal,1,42
+guinea pig,gup9,mammal,1,42
+guinea pig,gup10,mammal,1,42
+guinea pig,gup11,mammal,1,42
+guinea pig,gup12,mammal,1,42
+guinea pig,gup13,mammal,1,42
+guinea pig,gup14,mammal,1,42
+guinea pig,gup15,mammal,1,42
+guinea pig,gup16,mammal,1,42
+guinea pig,gup17,mammal,1,42
+guinea pig,gup18,mammal,1,42
+guinea pig,gup19,mammal,1,42
+guinea pig,gup20,mammal,1,42
+crocodile,cr1,reptile,4,51
+crocodile,cr2,reptile,4,51
+crocodile,cr3,reptile,4,51
+snake,sn1,reptile,3,61
+snake,sn2,reptile,3,61
+lizard,li1,reptile,1,62
+lizard,li2,reptile,1,62
+chameleon,ch1,reptile,2,63
+chameleon,ch2,reptile,2,63
+snake,sn3,reptile,3,71
+snake,sn4,reptile,3,71
+bearded dragon,bed1,reptile,1,72
+bearded dragon,bed2,reptile,1,72
+bearded dragon,bed3,reptile,1,72
+lizard,li5,reptile,1,72
+lizard,li7,reptile,1,72
+lizard,li7,reptile,1,72
+penguin,pe1,bird,1,81
+penguin,pe2,bird,1,81
+penguin,pe3,bird,1,81
+penguin,pe4,bird,1,81
+penguin,pe5,bird,1,81
+penguin,pe6,bird,1,81
+emu,em1,bird,1,81
+owl,ow1,bird,2,82
+vulture,vu1,bird,2,82
