@@ -24,10 +24,10 @@ and Danger Ratings).
 NB: For the purpose of this assessment it is satisfactory to exclude keepers’ details for the time being. 
 ```
 
-**In this project, I have opted not to include keepers as the lecturer made it clear that it is not a mandatory requirement for this assessment.((
+**In this project, I have opted not to include keepers as the lecturer made it clear that it is not a mandatory requirement for this assessment.**
 
-```
 📋 **Design Requirements**
+```
 ▪ Abstraction, encapsulation and information hiding used where appropriate
 ▪ Inheritance and Polymorphism
 ▪ All class-wide variables are private to prevent content coupling
@@ -36,8 +36,8 @@ preference to content or common coupling
 ▪ Classes must be highly cohesive
 ```
 
-```
 📋 **Implementation Requirements**
+```
 ▪ The working solution must meet the given requirements using Object Oriented techniques.
 ▪ Variables are correctly declared and initialised.
 ▪ Arithmetic and/or logical operators are used correctly.
