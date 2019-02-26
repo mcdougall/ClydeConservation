@@ -1,7 +1,9 @@
 # ClydeConservation Assessment
 
 Class: Object Oriented Programming
+
 College: Glasgow Clyde College - Anniesland Campus
+
 Course: HND Computing: Software Development
 
 # Project Brief
