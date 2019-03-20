@@ -1,5 +1,7 @@
 # Clyde Conservation Assessment
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b68625091b674850817410f7b6466ab9)](https://app.codacy.com/app/mcdougall/ClydeConservation?utm_source=github.com&utm_medium=referral&utm_content=mcdougall/ClydeConservation&utm_campaign=Badge_Grade_Dashboard)
+
 **Class:** Object Oriented Programming
 
 **College:** Glasgow Clyde College - Anniesland Campus
